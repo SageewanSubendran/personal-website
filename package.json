@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@netlify/plugin-nextjs": "^5.15.8",
     "framer-motion": "^12.34.5"
   }
 }
