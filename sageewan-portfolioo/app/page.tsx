@@ -126,6 +126,14 @@ export default function FounderPortfolio() {
               <li>• Automated Deal Workflow Systems</li>
             </ul>
           </div>
+          <div className="mt-10">
+            <a
+              href="www.zealestateexchange.com"
+              className="bg-yellow-600 px-8 py-4 rounded-2xl shadow-lg hover:bg-yellow-700 transition"
+            >
+              Check It Out
+            </a>
+          </div>
         </div>
       </section>
 
@@ -145,8 +153,8 @@ export default function FounderPortfolio() {
               <div className="space-y-8">
                 <div>
                   <div className="flex justify-between flex-wrap gap-2">
-                    <h4 className="font-semibold text-lg">Founder & Operator — Zeal Estate Exchange</h4>
-                    <span className="text-sm text-gray-500">2024 – Present</span>
+                    <h4 className="font-semibold text-lg">Founder & Developer — Zeal Estate Exchange</h4>
+                    <span className="text-sm text-gray-500">2026 – Present</span>
                   </div>
                   <p className="text-gray-600 mt-2">
                     Building and operating a real estate wholesaling platform focused on scalable deal flow,
@@ -157,7 +165,7 @@ export default function FounderPortfolio() {
                 <div>
                   <div className="flex justify-between flex-wrap gap-2">
                     <h4 className="font-semibold text-lg">Real Estate Investor</h4>
-                    <span className="text-sm text-gray-500">Active</span>
+                    <span className="text-sm text-gray-500">2021 - Present</span>
                   </div>
                   <p className="text-gray-600 mt-2">
                     Property acquisition, ARV analysis, renovation oversight, valuation strategy,
@@ -175,7 +183,7 @@ export default function FounderPortfolio() {
                 <div>
                   <div className="flex justify-between flex-wrap gap-2">
                     <h4 className="font-semibold text-lg">Software Engineer — Lockheed Martin</h4>
-                    <span className="text-sm text-gray-500">2020 – Present</span>
+                    <span className="text-sm text-gray-500">2021 – Present</span>
                   </div>
                   <p className="text-gray-600 mt-2">
                     Backend development using Java and SQL, building secure enterprise systems,
