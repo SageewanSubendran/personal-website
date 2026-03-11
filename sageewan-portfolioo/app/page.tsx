@@ -26,7 +26,6 @@ export default function FounderPortfolio() {
         <div className="max-w-5xl mx-auto text-center">
           <motion.img
             src="/profile-pic.jpg"
-            target="_blank"
             alt=""
             initial={{ opacity: 0, scale: 0.9 }}
             animate={{ opacity: 1, scale: 1 }}
@@ -130,6 +129,7 @@ export default function FounderPortfolio() {
           <div className="mt-10">
             <a
               href="www.zealestateexchange.com"
+              target="_blank"
               className="bg-yellow-600 px-8 py-4 rounded-2xl shadow-lg hover:bg-yellow-700 transition"
             >
               Check It Out
