@@ -25,7 +25,8 @@ export default function FounderPortfolio() {
       <section className="pt-40 pb-32 px-6 bg-white">
         <div className="max-w-5xl mx-auto text-center">
           <motion.img
-            src="/profile-pic.jpg" // Replace with your image path
+            src="/profile-pic.jpg"
+            target="_blank"
             alt=""
             initial={{ opacity: 0, scale: 0.9 }}
             animate={{ opacity: 1, scale: 1 }}
