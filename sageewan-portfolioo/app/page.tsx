@@ -222,6 +222,7 @@ export default function FounderPortfolio() {
           <div className="mt-10">
             <a
               href="mailto:ssagee24@gmail.com"
+              target="_blank"
               className="bg-yellow-600 px-8 py-4 rounded-2xl shadow-lg hover:bg-yellow-700 transition"
             >
               Get In Touch
