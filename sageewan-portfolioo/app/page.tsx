@@ -10,7 +10,7 @@ export default function FounderPortfolio() {
       <nav className="fixed top-0 w-full bg-white/80 backdrop-blur-md border-b border-gray-200 z-50">
         <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
           <h1 className="text-xl font-bold tracking-widest">
-            SAGEEWAN
+            S.S
           </h1>
           <div className="space-x-8 text-sm font-medium hidden md:flex">
             <a href="#mission" className="hover:text-yellow-600 transition">Mission</a>
@@ -26,7 +26,7 @@ export default function FounderPortfolio() {
         <div className="max-w-5xl mx-auto text-center">
           <motion.img
             src="/profilePic.jpg" // Replace with your image path
-            alt="Sageewan Subendran"
+            alt=""
             initial={{ opacity: 0, scale: 0.9 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.8 }}
